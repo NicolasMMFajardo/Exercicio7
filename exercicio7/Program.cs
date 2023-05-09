@@ -1,4 +1,4 @@
-﻿namespace exemplo
+﻿namespace exercicio7
 {
     class Program
     {
@@ -9,7 +9,7 @@
             if (nome is not null){
                 Console.WriteLine(olaNome(nome));
             }
-            
+
             Console.WriteLine(olaNome("João"));
 
             string olaNome(string nome){

@@ -1,0 +1,4 @@
+nome: Nicolas
+e-mail: Nicolasfajardo123@gmail.com
+telefone: (43) 99179-3659
+RG: 14.343.261-0
