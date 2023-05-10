@@ -1,0 +1,3 @@
+Nome: Nicolas, Idade: 19, Peso: 90, Altura: 1,8, IMC: 27,77778
+Nome: Nicolas, Idade: 19, Peso: 70, Altura: 1,8, IMC: 21,60494
+Nome: joao, Idade: 24, Peso: 100, Altura: 1,5, IMC: 44,444443
